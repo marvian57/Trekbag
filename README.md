@@ -5,7 +5,7 @@ This project emphasises a to-do list where you can put arbitrary items and check
 
 <img width="1357" height="841" alt="Screenshot 2026-01-04 000809" src="https://github.com/user-attachments/assets/2d959a7e-5ace-4922-acfa-fc031927eb30" />
 
-
+# This project is incomplete - I will add the complete project description once it is done 
 
 # React + Vite
 
